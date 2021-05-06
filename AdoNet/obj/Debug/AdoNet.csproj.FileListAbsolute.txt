@@ -1,0 +1,7 @@
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\AdoNet\bin\Debug\AdoNet.exe.config
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\AdoNet\bin\Debug\AdoNet.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\AdoNet\bin\Debug\AdoNet.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\AdoNet\obj\Debug\AdoNet.csprojAssemblyReference.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\AdoNet\obj\Debug\AdoNet.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\AdoNet\obj\Debug\AdoNet.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\AdoNet\obj\Debug\AdoNet.pdb

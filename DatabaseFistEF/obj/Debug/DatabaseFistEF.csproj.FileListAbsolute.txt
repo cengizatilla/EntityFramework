@@ -1,0 +1,12 @@
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\bin\Debug\DatabaseFistEF.exe.config
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\bin\Debug\DatabaseFistEF.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\bin\Debug\DatabaseFistEF.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\bin\Debug\EntityFramework.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\bin\Debug\EntityFramework.xml
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\obj\Debug\DatabaseFistEF.csprojAssemblyReference.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\obj\Debug\DatabaseFistEF.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\obj\Debug\DatabaseFistEF.csproj.CopyComplete
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\obj\Debug\DatabaseFistEF.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFistEF\obj\Debug\DatabaseFistEF.pdb

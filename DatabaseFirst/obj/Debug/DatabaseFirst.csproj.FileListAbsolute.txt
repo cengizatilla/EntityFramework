@@ -1,0 +1,11 @@
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CopyComplete
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\DatabaseFirst\obj\Debug\DatabaseFirst.pdb
