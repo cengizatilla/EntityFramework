@@ -1,0 +1,13 @@
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\bin\Debug\ExistDBCodeFist.exe.config
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\bin\Debug\ExistDBCodeFist.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\bin\Debug\ExistDBCodeFist.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\bin\Debug\EntityFramework.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\bin\Debug\EntityFramework.xml
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\obj\Debug\ExistDBCodeFist.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\obj\Debug\ExistDBCodeFist.csproj.CopyComplete
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\obj\Debug\ExistDBCodeFist.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\obj\Debug\ExistDBCodeFist.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\obj\Debug\ExistDBCodeFist.Migrations.CustomerAdd.resources
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\ExistDBCodeFist\obj\Debug\ExistDBCodeFist.csproj.GenerateResource.cache

@@ -1,0 +1,14 @@
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\bin\Debug\CodeFirst.exe.config
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\bin\Debug\CodeFirst.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\obj\Debug\CodeFirst.exe
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\obj\Debug\CodeFirst.pdb
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\obj\Debug\CodeFirst.Migrations.CustomerTableAdd.resources
+C:\Users\Cengiz ATİLLA\Source\Repos\EFSchool\EntityFramework\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
